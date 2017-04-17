@@ -13,7 +13,7 @@ import com.reader.yoshiii.nfcreader.R;
  * Created by KIM on 2/3/2016.
  */
 public class AboutActivity extends Activity {
-
+    Button btn;
     TextView _1565, _1571, _1573, _1945;
     LinearLayout _1565_layout, _1571_layout, _1573_layout, _1945_layout;
 
